@@ -7,7 +7,7 @@ public class gitest : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("github");
+        Debug.Log("github2");
     }
 
     // Update is called once per frame
